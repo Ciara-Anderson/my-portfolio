@@ -26,6 +26,11 @@ h2 {
   color: #ffffff;
 }
 
+p {
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
 main {
   max-width: 800px;
   margin: 0 auto;
