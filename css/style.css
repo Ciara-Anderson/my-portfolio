@@ -38,12 +38,8 @@ main {
 }
 
 footer {
+ text-align: center;
   font-size: 0.875rem;
   color: #474747;
   padding: 20px;
-}
-
-p {
-  font-size: 1.25rem;
-  color: #474747;
 }
