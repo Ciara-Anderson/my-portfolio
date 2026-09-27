@@ -17,6 +17,11 @@ header nav a {
   margin-right: 16px;
 }
 
+nav a[aria-current="page"] {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 3.0rem;
 }
