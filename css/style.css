@@ -19,6 +19,7 @@ header nav a {
 
 nav a[aria-current="page"] {
   font-weight: bold;
+  font-family: Georgia, serif
   color: #ffffff;
   font-size: 1.25rem
   text-decoration: underline;
