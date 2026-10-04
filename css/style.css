@@ -23,6 +23,10 @@ nav a[aria-current="page"] {
   text-decoration: underline;
 }
 
+a:visited {
+  color: #ffffff;
+}
+
 h1 {
   font-size: 3.0rem;
 }
