@@ -1,7 +1,7 @@
 body {
   font-family: Georgia, serif;
   color: #262220;
-  background-color: f8f5f0;
+  background-color: #f8f5f0;
 }
 
 header {
@@ -109,7 +109,7 @@ input, textarea {
 button[type="submit"] {
   display: block;
   margin-top: 2rem;
-  background-color: #1b6f78;
+  background-color: #5B765B;
   color: #ffffff;
   font-size: 1.25rem;
   padding: 16px 32px;
