@@ -80,7 +80,7 @@ th {
 }
 
 tbody tr:nth-child(even) {
-  background-color: #c1d9c1;
+  background-color: #6F906F;
 }
 
 h4 {
@@ -120,7 +120,7 @@ button[type="submit"] {
 }
 
 form {
-  background-color: #c1d9c1;
+  background-color: #6F906F;
   padding: 32px;
   border-radius: 8px;
   max-width: 480px;
