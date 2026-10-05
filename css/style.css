@@ -124,4 +124,5 @@ form {
   border-radius: 8px;
   max-width: 480px;
   text-align: center;
+  margin: 0 auto;
 }
