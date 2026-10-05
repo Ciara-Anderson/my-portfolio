@@ -68,7 +68,7 @@ table {
 }
 
 th, td {
-  border: 2px solid #6b3e26;
+  border: 2px solid #262220;
   padding: 0.5rem;
   text-align: center
   text-align: left;
@@ -92,6 +92,7 @@ caption {
   font-size: 1.25rem;
   color: #3D3D3D;
   padding: 10px;
+  font-weight: bold;
 }
 
 label {
