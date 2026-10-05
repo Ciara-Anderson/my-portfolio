@@ -118,8 +118,9 @@ button[type="submit"] {
 }
 
 form {
-  background-color: #eaf6f6;
+  background-color: #c1d9c1;
   padding: 32px;
   border-radius: 8px;
   max-width: 480px;
+  text-align: center;
 }
