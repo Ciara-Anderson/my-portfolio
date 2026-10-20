@@ -127,3 +127,10 @@ form {
   text-align: center;
   margin: 0 auto;
 }
+
+button {
+  text-align: center;
+  background-color: #5B765B;
+  color: #ffffff;
+  padding: 5px;
+}
