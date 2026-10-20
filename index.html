@@ -29,6 +29,25 @@
   </main>
   <footer>
     <p>&copy; 2018 Anderson Family Concrete, 1120 Gordon Avenue, Richmond</p>
+    <button onclick="getLocation()">Not sure if you're in our area? Click here!</button>
+<p id="location-message"></p>
+  </footer>
+  <script>
+  function getLocation() {
+    navigator.geolocation.getCurrentPosition(showPosition, showError);
+  }
+
+  function showPosition(position) {
+    var lat = position.coords.latitude.toFixed(1);
+    var lon = position.coords.longitude.toFixed(1);
+    document.getElementById("location-message").textContent =
+      "Great! You're near " + lat + ", " + lon + ". Nearby? Call us soon and let's start this project!";
+  }
+
+  function showError(error) {
+    document.getElementById("location-message").textContent =
+      "We can't access your location, but no biggie! Give us a call to see if we can make it out to your area!";
+  }
   </footer>
 </body>
 </html>
