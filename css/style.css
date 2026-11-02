@@ -15,7 +15,8 @@ nav {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  text-align: center
+  text-align: center;
+  font-weight: bold;
 }
 
 header nav a {
