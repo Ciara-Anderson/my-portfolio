@@ -33,6 +33,9 @@ nav a[aria-current="page"] {
   text-decoration: underline;
 }
 
+a {
+    color: #ffffff
+
 a:visited {
   color: #ffffff;
 }
