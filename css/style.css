@@ -11,6 +11,12 @@ header {
   padding: 20px;
 }
 
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 header nav a {
   text-align: center
   color: #ffffff;
@@ -44,10 +50,34 @@ p {
   font-size: 1.25rem;
 }
 
+@media (min-width: 600px) {
+  nav {
+    flex-direction: row;
+  }
+}
+
+.page-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+@media (min-width: 700px) {
+  .page-layout {
+    flex-direction: row;
+  }
+
 main {
   max-width: 800px;
   margin: 0 auto;
   padding: 60px 30px;
+  flex: 2;
+  }
+
+  aside {
+    flex: 1;
+  }
 }
 
 footer {
