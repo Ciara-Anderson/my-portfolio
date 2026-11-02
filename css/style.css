@@ -20,21 +20,21 @@ nav {
 }
 
 header nav a {
-  text-align: center
+  text-align: center;
   color: #ffffff;
   margin-right: 16px;
 }
 
 nav a[aria-current="page"] {
   font-weight: bold;
-  font-family: Georgia, serif
+  font-family: Georgia, serif;
   color: inherit;
-  font-size: 1.25rem
+  font-size: 1.25rem;
   text-decoration: underline;
 }
 
 a {
-    color: #ffffff
+    color: #ffffff;
 }
 
 a:visited {
@@ -106,7 +106,7 @@ table {
 th, td {
   border: 2px solid #262220;
   padding: 0.5rem;
-  text-align: center
+  text-align: center;
   text-align: left;
 }
 
@@ -121,7 +121,7 @@ tbody tr:nth-child(even) {
 
 h4 {
   font-size: 1.50rem;
-  color: #242424
+  color: #242424;
 }
 
 caption {
