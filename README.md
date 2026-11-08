@@ -1,4 +1,17 @@
+
+
+https://github.com/user-attachments/assets/c59e9d60-899f-4923-bb08-7db18b947641
+
+
+
+https://github.com/user-attachments/assets/a965f22b-abd0-450b-b835-6b160438d50a
+
+
+
 # Anderson-Family-Concrete
 This site is for Anderson Family Concrete, an 804 local stamped concrete company. It is built for locals who may be interested in renovating their homes with patios, driveways, sidewalks, and more. This site will be a spot to possibly answer any inquiries, such as "Is this  company a fit for what I'm looking to do?", along with where to find information on how to get an estimate, a place to find photos of past projects, and to state any additional information you may need. 
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/20849042-36d6-437a-a507-ee4e0e01c5d3" />
+
+
+
 
